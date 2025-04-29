@@ -5,7 +5,7 @@ $(document).ready(function() {
             scrollTop: $('#top_strony_anchor').offset().top 
         }, 700);
         if(ukryj_menu == false) {
-            $('#kon_menu').animate({ top: -430 }, 700);
+            $('#kon_menu').animate({ top: -434 }, 700);
             ukryj_menu = true;
         }
     });
@@ -14,7 +14,7 @@ $(document).ready(function() {
             scrollTop: $('#kon_o_nas_anchor').offset().top 
         }, 700);
         if(ukryj_menu == false) {
-            $('#kon_menu').animate({ top: -430 }, 700);
+            $('#kon_menu').animate({ top: -434 }, 700);
             ukryj_menu = true;
         }
     });
@@ -23,7 +23,7 @@ $(document).ready(function() {
             scrollTop: $('#kon_zajecia_anchor').offset().top 
         }, 700);
         if(ukryj_menu == false) {
-            $('#kon_menu').animate({ top: -430 }, 700);
+            $('#kon_menu').animate({ top: -434 }, 700);
             ukryj_menu = true;
         }
     });
@@ -32,7 +32,7 @@ $(document).ready(function() {
             scrollTop: $('#kon_cennik_anchor').offset().top 
         }, 700);
         if(ukryj_menu == false) {
-            $('#kon_menu').animate({ top: -430 }, 700);
+            $('#kon_menu').animate({ top: -434 }, 700);
             ukryj_menu = true;
         }
     });
@@ -41,7 +41,7 @@ $(document).ready(function() {
             scrollTop: $('#kon_kontakt_anchor').offset().top 
         }, 700);
         if(ukryj_menu == false) {
-            $('#kon_menu').animate({ top: -430 }, 700);
+            $('#kon_menu').animate({ top: -434 }, 700);
             ukryj_menu = true;
         }
     });
@@ -50,7 +50,7 @@ $(document).ready(function() {
             $('#kon_menu').animate({ top: 0 }, 700);
             ukryj_menu = false;
         } else {
-            $('#kon_menu').animate({ top: -430 }, 700);
+            $('#kon_menu').animate({ top: -434 }, 700);
             ukryj_menu = true;
         }
     });
@@ -60,7 +60,7 @@ $(document).ready(function() {
             $('#kon_menu').css('top',0);
             ukryj_menu = true;
         } else {
-            $('#kon_menu').css('top', -430);
+            $('#kon_menu').css('top', -434);
         }
     });
 });

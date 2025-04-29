@@ -46,7 +46,7 @@
 /* MENU */
 
     #kon_menu {
-        top: -430px;
+        top: -434px;
         padding: 0;
     }
     #kon_menu img {
@@ -120,7 +120,7 @@
     #haslo {
         height: 600px;
         background: url(../images/haslo_mobilne.svg) no-repeat center;
-        background-size:cover;
+        background-size: cover;
     }
 /* KONTAKT */
 
