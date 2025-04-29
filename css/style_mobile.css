@@ -12,7 +12,7 @@
 /* CENNIK */    
 
     .boks_cennik {
-        width: 42.3%;
+        width: 42.4%;
         height: auto;
         margin-bottom: 2.3%;
     }
@@ -106,12 +106,11 @@
 /* CENNIK */
 
     .boks_cennik {
-        width: 96%;
+        width: auto;
         height: 250px;
         float: none;
         margin-right: 0;
         margin-bottom: 5%;
-        vertical-align: middle;
         text-align: center;
     }
 
