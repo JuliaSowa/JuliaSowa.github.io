@@ -25,7 +25,6 @@
         background: url(../images/haslo_mobilne.svg) no-repeat center;
         background-size: cover;
     }
-   
 }
 
 @media screen and (max-width: 768px) {
@@ -81,7 +80,6 @@
         visibility: hidden;
     }
 
-
 /* TOP STRONY */
 
     #top_strony {
@@ -121,6 +119,7 @@
         background: url(../images/haslo_mobilne.svg) no-repeat center;
         background-size: cover;
     }
+
 /* KONTAKT */
 
     #kon_kontakt h2 {
@@ -146,9 +145,6 @@
     .okienko_formularz textarea {
         width: 93%;
         padding: 3%;
-    }
-    .wyslij {
-        margin-top: 3%;
     }
 
 /* STOPKA */
@@ -176,8 +172,6 @@
     margin-left: 10px;
     margin-right: 10px;
    }
-
-
 }
 
 
